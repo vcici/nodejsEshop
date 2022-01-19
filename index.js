@@ -8,7 +8,7 @@ const soldTotalCount = require('./lib/soldTotalCount.js');
 const profit = require('./lib/profit.js');
 const futureProfit = require('./lib/futureProfit.js');
 
-console.clear();
+
 
 /* 
 -perskaityti visu produktu failus
